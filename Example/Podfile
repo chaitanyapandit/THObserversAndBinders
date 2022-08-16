@@ -1,0 +1,6 @@
+use_frameworks!
+target 'THObserversAndBinders_Tests' do
+  pod 'THObserversAndBinders', :path => '../'
+  
+  
+end
